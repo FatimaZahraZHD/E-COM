@@ -1,2 +1,2 @@
 # E-COM
-Initial Perject
+Initial Project
